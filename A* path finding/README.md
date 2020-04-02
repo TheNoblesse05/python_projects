@@ -3,8 +3,11 @@ A python program to implement A* path finding algorithm
 ALGORITHM -
 
 OPEN - the set of nodes to be evaluated
+
 CLOSED - the set of nodes already evaluated
+
 add the start node to open
+
 f_cost - heuristic cost
 
 loop:
