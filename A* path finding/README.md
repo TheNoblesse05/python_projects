@@ -8,9 +8,13 @@ add the start node to open
 f_cost - heuristic cost
 
 loop:
+
 	current = node in OPEN with lowest f_cost
+	
 	remove current from OPEN
+	
 	add current to CLOSED
+	
 
 	if current is the target node: //path has been found
 		return
