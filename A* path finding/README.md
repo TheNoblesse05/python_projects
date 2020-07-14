@@ -1,6 +1,6 @@
-A python program to implement A* path finding algorithm
+## A python program to implement A* path finding algorithm
 
-ALGORITHM -
+#### ALGORITHM -
 
 OPEN - the set of nodes to be evaluated
 
