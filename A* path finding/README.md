@@ -31,8 +31,15 @@ loop:
 			if neighbour is not in OPEN:
 				add neighbour to OPEN
 
+#### SCREENSHOTS -
+
+Game Start
 ![Map Start](game_start.jpg)
+
+Making Obstacles
 ![Adding obstacles](making_obstacles.jpg)
+
+Path Complete
 ![Path Complete](path_complete.jpg)
 
 Author - Vedant Tilwani
