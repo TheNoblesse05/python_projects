@@ -33,13 +33,13 @@ loop:
 
 #### SCREENSHOTS -
 
-Game Start
+Game Start  
 ![Map Start](game_start.jpg)
 
-Making Obstacles
+Making Obstacles  
 ![Adding obstacles](making_obstacles.jpg)
 
-Path Complete
+Path Complete  
 ![Path Complete](path_complete.jpg)
 
 Author - Vedant Tilwani
